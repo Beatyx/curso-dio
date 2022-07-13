@@ -1,13 +1,15 @@
 package dio;
 
+import com.dio.model.Gato;
+
 public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
-		int a = 2;
-		int b = 3;
+	
+		Gato gato = new Gato();
 		
-		System.out.println("Hello World!" + (a+b));
-
+		System.out.println("Hello World!");
+		System.out.println(gato);
 	}
 
 }
