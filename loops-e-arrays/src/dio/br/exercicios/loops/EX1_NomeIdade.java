@@ -1,4 +1,4 @@
-package dio.exercicios;
+package dio.br.exercicios.loops;
 
 import java.time.Year;
 import java.util.Scanner;
